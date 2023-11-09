@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/fotopia/static/css/main.ec5a1328.css",
+    "main.js": "/fotopia/static/js/main.e2aa9ba4.js",
+    "index.html": "/fotopia/index.html",
+    "main.ec5a1328.css.map": "/fotopia/static/css/main.ec5a1328.css.map",
+    "main.e2aa9ba4.js.map": "/fotopia/static/js/main.e2aa9ba4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec5a1328.css",
+    "static/js/main.e2aa9ba4.js"
+  ]
+}
