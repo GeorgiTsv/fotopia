@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/fotopia/static/css/main.ec5a1328.css",
-    "main.js": "/fotopia/static/js/main.9921fb7f.js",
+    "main.js": "/fotopia/static/js/main.6dd975ee.js",
     "index.html": "/fotopia/index.html",
     "main.ec5a1328.css.map": "/fotopia/static/css/main.ec5a1328.css.map",
-    "main.9921fb7f.js.map": "/fotopia/static/js/main.9921fb7f.js.map"
+    "main.6dd975ee.js.map": "/fotopia/static/js/main.6dd975ee.js.map"
   },
   "entrypoints": [
     "static/css/main.ec5a1328.css",
-    "static/js/main.9921fb7f.js"
+    "static/js/main.6dd975ee.js"
   ]
 }
